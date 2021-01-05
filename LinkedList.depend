@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609853160 source:c:\users\burak\onedrive\masaüstü\c projects\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
